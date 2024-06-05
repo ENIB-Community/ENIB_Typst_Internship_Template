@@ -12,7 +12,7 @@ This repo contains a template for ENIB internship reports.
 Either:
 
 - Get an executable from the [Typst releases page](https://github.com/typst/typst/releases).
-- Install [cargo](https://doc.rust-lang.org/cargo/getting-started/installation.html) and then run `cargo install --locked --git https://github.com/typst/typst` (this will compile the latest version of typst).
+- Install [cargo](https://doc.rust-lang.org/cargo/getting-started/installation.html) and then run `cargo install --locked --git https://github.com/typst/typst typst-cli` (this will compile the latest version of typst).
 
 ## Build the document
 
